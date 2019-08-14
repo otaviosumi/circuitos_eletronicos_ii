@@ -6,12 +6,12 @@ Alunos:
 * [Murilo Pratavieira](mailto:murilo.pratavieira@gmail.com) 8123082
 
 Professor:
-* [](mailto:)
+* [João Paulo Carmo](mailto:jcarmo@sc.usp.br)
 
 ## Especificações
 * Tamanho dos MOSFETs para os 2 primeiros circuitos: 
-  * Ln=0.25um
-  * Wn=40um.
+  * Ln = 0.25um
+  * Wn = 40um.
   
 * Especificacoes para o par diferencial, com tolerancia de 10% (para cima e para baixo):
   * Itail = 130uA
