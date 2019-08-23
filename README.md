@@ -6,7 +6,7 @@ Alunos:
 * [Murilo Pratavieira](mailto:murilo.pratavieira@gmail.com) 8123082
 
 Professor:
-* [João Paulo Carmo](mailto:jcarmo@sc.usp.br)
+* [João Paulo Carmo](http://www.sel.eesc.usp.br/jcarmo/syllabus_SEL0314_2017.html)
 
 ## Especificações
 * Tamanho dos MOSFETs para os 2 primeiros circuitos: 
