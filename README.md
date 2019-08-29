@@ -1,9 +1,9 @@
 # SEL0314 - Circuitos Eletrônicos II
 ## Integrantes
 Alunos:
-* [Otávio Massola Sumi](mailto:otavio.sumi@usp.br) 8549452
-* [Carla Nunes da Cruz](mailto:carla.nunes@usp.br) 8479343
-* [Murilo Pratavieira](mailto:murilo.pratavieira@gmail.com) 8123082
+* [Otávio Massola Sumi 8549452](mailto:otavio.sumi@usp.br)
+* [Carla Nunes da Cruz 8479343](mailto:carla.nunes@usp.br)
+* [Murilo Pratavieira 8123082](mailto:murilo.pratavieira@gmail.com)
 
 Professor:
 * [João Paulo Carmo (website)](http://www.sel.eesc.usp.br/jcarmo/syllabus_SEL0314_2017.html)
