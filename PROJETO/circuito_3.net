@@ -1,22 +1,22 @@
-* C:\Users\otavi\Git\circuitos_eletronicos_ii\PROJETO\circuito_3.asc
+* C:\Users\Sumi\Git\circuitos_eletronicos_ii\PROJETO\circuito_3.asc
 Vd Vdd 0 4
-R1 Vdd Vout1 1k
-M1 Vout1 g1 s2 0 NMOS l=0.25u w=40u
-R2 Vdd d2 1k
-M2 d2 N003 s2 0 NMOS l=0.25u w=40u
-M3 s2 g3 0 0 NMOS l=0.25u w=40u
-Vb3 g3 0 4
-V1 N002 0
-V2 N001 0 SINE(0 10m 10k) Rser=10
+R1 Vdd Vout1 32k
+M1 Vout1 g1 s2 0 NMOS l=1u w=27.658u
+R2 Vdd d2 32k
+M2 d2 N003 s2 0 NMOS l=1u w=27.658u
+M3 s2 g3 0 0 NMOS l=1u w=70u
+Vb3 g3 0 0.4
+V1 N002 0 2
+V2 N001 0 AC 0.1 Rser=10
 L1 0 N001 10
 L2 N002 g1 10
 L3 N003 N002 10
 .model NMOS NMOS
 .model PMOS PMOS
-.lib C:\Users\otavi\Documents\LTspiceXVII\lib\cmp\standard.mos
+.lib C:\Users\Sumi\Documents\LTspiceXVII\lib\cmp\standard.mos
 .inc Generic_025_SPICE_Models_Level2.lib
-;.dc V1 0 5 0.01
+;.dc V1 0 4 0.01
 K1 L1 L2 L3 1.
-.tran 0 100u 0
+.ac dec 10 10 1G
 .backanno
 .end

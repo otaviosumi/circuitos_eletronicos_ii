@@ -1,25 +1,23 @@
-Circuit: * C:\Users\otavi\Git\circuitos_eletronicos_ii\PROJETO\circuito_3.asc
+Circuit: * C:\Users\Sumi\Git\circuitos_eletronicos_ii\PROJETO\circuito_3.asc
 
 Instance "m3": Length shorter than recommended for a level 1 MOSFET.
 Instance "m2": Length shorter than recommended for a level 1 MOSFET.
 Instance "m1": Length shorter than recommended for a level 1 MOSFET.
-V1: Missing value, assumed 0V @ DC
 Direct Newton iteration for .op point succeeded.
 
-Date: Sun Nov 03 20:38:00 2019
-Total elapsed time: 0.110 seconds.
+Date: Sun Nov 24 15:55:07 2019
+Total elapsed time: 0.068 seconds.
 
 tnom = 27
 temp = 27
-method = modified trap
-totiter = 2090
-traniter = 2082
-tranpoints = 1042
-accept = 1042
+method = trap
+totiter = 5
+traniter = 0
+tranpoints = 0
+accept = 0
 rejected = 0
 matrix size = 15
-fillins = 6
+fillins = 4
 solver = Normal
-Matrix Compiler1: 1.20 KB object code size  0.5/0.2/[0.1]
-Matrix Compiler2: 1.36 KB object code size  0.2/0.2/[0.2]
-
+Matrix Compiler1:      60 opcodes
+Matrix Compiler2: 1.24 KB object code size
